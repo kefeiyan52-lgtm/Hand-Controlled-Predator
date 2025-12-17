@@ -1,0 +1,7 @@
+{
+  "name": "Hand-Controlled Predator",
+  "description": "A generative art game where you control a fish with your hand using MediaPipe and p5.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
